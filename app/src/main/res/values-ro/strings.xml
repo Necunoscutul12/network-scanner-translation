@@ -149,7 +149,7 @@
     <!-- Scanning Preferences -->
     <string name="pref_auto_scan_title">Scanare automată la pornire</string>
     <string name="pref_auto_scan_summary">Pornește automat scanarea la deschiderea aplicației</string>
-    <string name="pref_scan_timeout_title">Timp-limită (Timeout) pentru scanare</string>
+    <string name="pref_scan_timeout_title">Timp limită scanare</string>
     <string name="pref_neighbor_source_title">Acces la adresele MAC</string>
     <string name="pref_neighbor_source_summary">Android 10+ ascunde aplicațiilor adresele MAC ale altor dispozitive. Citește-le folosind Shizuku sau acces root.</string>
 
